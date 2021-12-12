@@ -1,0 +1,10 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\bin\Debug\lab13.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\bin\Debug\lab13.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\bin\Debug\lab13.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\bin\Debug\SoapFormatter.dll
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.csproj.SuggestedBindingRedirects.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.csproj.CopyComplete
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab13\obj\Debug\lab13.pdb
