@@ -1,0 +1,10 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\bin\Debug\winFormsLab.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\bin\Debug\winFormsLab.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\bin\Debug\winFormsLab.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.csproj.AssemblyReference.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.Properties.Resources.resources
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.csproj.GenerateResource.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\winFormsLab\obj\Debug\winFormsLab.pdb

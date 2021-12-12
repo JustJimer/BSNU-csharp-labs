@@ -1,0 +1,8 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\bin\Debug\lab8.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\bin\Debug\lab8.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\bin\Debug\lab8.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\obj\Debug\lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\obj\Debug\lab8.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab8\obj\Debug\lab8.pdb

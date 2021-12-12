@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c3f1d57-8be0-488d-9c60-122c4bc044ff": {
+      "ProjectGuid": "0c3f1d57-8be0-488d-9c60-122c4bc044ff",
+      "DisplayName": "CNU-OOP-3rd-semester",
+      "ColorIndex": 0
+    },
+    "b14d2166-6a24-45ea-b853-e2a0a532d8ca": {
+      "ProjectGuid": "b14d2166-6a24-45ea-b853-e2a0a532d8ca",
+      "DisplayName": "lab01",
+      "ColorIndex": 1
+    },
+    "6cd13d91-64c7-47f9-8684-73a45fb52182": {
+      "ProjectGuid": "6cd13d91-64c7-47f9-8684-73a45fb52182",
+      "DisplayName": "lab02",
+      "ColorIndex": 2
+    },
+    "ff27d615-4718-4af0-8ff7-8c248944beb3": {
+      "ProjectGuid": "ff27d615-4718-4af0-8ff7-8c248944beb3",
+      "DisplayName": "lab03",
+      "ColorIndex": 3
+    },
+    "90a74f86-d412-43f9-a00c-9488a756d633": {
+      "ProjectGuid": "90a74f86-d412-43f9-a00c-9488a756d633",
+      "DisplayName": "lab04",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "690ca6c5-2a4d-47eb-8dea-e1a14256f270": {
+      "ProjectGuid": "690ca6c5-2a4d-47eb-8dea-e1a14256f270",
+      "DisplayName": "lab05",
+      "ColorIndex": 5
+    },
+    "1cfe713f-658b-4167-bc42-8860a94f1f24": {
+      "ProjectGuid": "1cfe713f-658b-4167-bc42-8860a94f1f24",
+      "DisplayName": "lab06",
+      "ColorIndex": 6
+    },
+    "7bc8654f-3135-467e-87cb-b59d8fa84150": {
+      "ProjectGuid": "7bc8654f-3135-467e-87cb-b59d8fa84150",
+      "DisplayName": "lab07",
+      "ColorIndex": 7
+    },
+    "3d07e5ac-e9f4-4182-8ff1-29af581d2963": {
+      "ProjectGuid": "3d07e5ac-e9f4-4182-8ff1-29af581d2963",
+      "DisplayName": "lab08",
+      "ColorIndex": 8
+    },
+    "2c22dab6-778f-4446-9ce6-0acfb7f7c5a3": {
+      "ProjectGuid": "2c22dab6-778f-4446-9ce6-0acfb7f7c5a3",
+      "DisplayName": "lab09",
+      "ColorIndex": 9
+    },
+    "09c985ff-a317-48fa-9133-a100da93610f": {
+      "ProjectGuid": "09c985ff-a317-48fa-9133-a100da93610f",
+      "DisplayName": "lab10",
+      "ColorIndex": 10
+    },
+    "9b04ae72-6c21-4270-ba41-009825f4cf1d": {
+      "ProjectGuid": "9b04ae72-6c21-4270-ba41-009825f4cf1d",
+      "DisplayName": "lab11",
+      "ColorIndex": 11
+    },
+    "f131ca76-2c58-49ad-976d-0272ec38d601": {
+      "ProjectGuid": "f131ca76-2c58-49ad-976d-0272ec38d601",
+      "DisplayName": "lab12",
+      "ColorIndex": 12
+    },
+    "f895744c-fc7b-4535-b7b8-637d2c5c3745": {
+      "ProjectGuid": "f895744c-fc7b-4535-b7b8-637d2c5c3745",
+      "DisplayName": "lab13",
+      "ColorIndex": 13
+    },
+    "866442d9-5711-414b-9935-cbcf918b8317": {
+      "ProjectGuid": "866442d9-5711-414b-9935-cbcf918b8317",
+      "DisplayName": "lab14",
+      "ColorIndex": 14
+    },
+    "388df180-3b5f-4383-921f-bfb26d09a8b3": {
+      "ProjectGuid": "388df180-3b5f-4383-921f-bfb26d09a8b3",
+      "DisplayName": "winFormsLab",
+      "ColorIndex": 15
+    },
+    "57e7fbcf-3a76-4b0f-a38e-dc2ea0e47970": {
+      "ProjectGuid": "57e7fbcf-3a76-4b0f-a38e-dc2ea0e47970",
+      "DisplayName": "winFormsLab",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

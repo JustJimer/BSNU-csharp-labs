@@ -1,0 +1,7 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\bin\Debug\lab7.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\bin\Debug\lab7.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\bin\Debug\lab7.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\obj\Debug\lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\obj\Debug\lab7.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab7\obj\Debug\lab7.pdb
