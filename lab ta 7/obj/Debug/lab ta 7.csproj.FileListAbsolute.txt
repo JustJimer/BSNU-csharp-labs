@@ -1,0 +1,6 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\bin\Debug\lab ta 7.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\bin\Debug\lab ta 7.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\bin\Debug\lab ta 7.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\obj\Debug\lab ta 7.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\obj\Debug\lab ta 7.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 7\obj\Debug\lab ta 7.pdb
