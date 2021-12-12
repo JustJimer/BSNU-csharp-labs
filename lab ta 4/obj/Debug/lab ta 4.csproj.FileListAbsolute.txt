@@ -1,0 +1,7 @@
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\bin\Debug\lab ta 4.exe.config
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\bin\Debug\lab ta 4.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\bin\Debug\lab ta 4.pdb
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\obj\Debug\lab ta 4.csproj.AssemblyReference.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\obj\Debug\lab ta 4.csproj.CoreCompileInputs.cache
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\obj\Debug\lab ta 4.exe
+C:\Users\vjime\Documents\GitHub\CNU-OOP-3rd-semester\lab ta 4\obj\Debug\lab ta 4.pdb
